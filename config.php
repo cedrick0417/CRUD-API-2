@@ -2,7 +2,7 @@
 class Config
 {
     // DATABASE DETAILS
-    private const DBHOST = 'localhost ';
+    private const DBHOST = 'localhost';
     private const DBUSER = 'root';
     private const DBPASS = '';
     private const DBNAME = 'crud-api-pdo';
